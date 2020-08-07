@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="作业">
+<tittle>第五课第六课作业</tittle>
+<link rel="stylesheet" href="style_3.css">
+</head>
+  
+<body>
+
+<div class="container"><h1>简历</h1></div>
+
+
+<div class="container1">
+ <div class="itms"><h2>基本信息</h2></div>
+ <div class="itms1">
+  <table>
+  <tr>
+  <td><b>姓名&ensp;</b>张三</td>
+  <td><b>性别&ensp;</b>男</td>
+  <td><b>应聘职位&ensp;</b>Web前端工程师</td>
+  </tr>
+  </table>
+ </div>
+</div>
+
+
+<div class="container1">
+  <div class="itms"><h2>联系方式</h2></div>
+   <div class="itms1">
+   <table>
+   <tr>
+   <td><b>手机&ensp;</b>12312341234</td>
+   <td><b>Email&ensp;</b><a href="mailto:someone@microsoft.com?subject=Hello%20again" target="_blank">joinefe@baidu.com</a></td>
+   <td><b>个人主页&ensp;</b><a href="https://github.com/">Github</a></td>
+   </tr>
+   </table>
+  </div>
+</div>
+
+
+<div class="container1">
+ <div class="itms"><h2>能力描述</h2></div>
+  <div class="itms1">
+  <table>
+  <tr><td><b>技术能力</b></td></tr>
+  <tr><td>熟练掌握HTML,CSS,JavaScript</td></tr>
+  <tr><td><b>综合能力</b></td></tr>
+  <tr><td>良好的沟通，主动积极，努力勤奋</td></tr>
+  </table>
+  </div>
+</div>
+
+
+<div class="container1">
+ <div class="itms"><h2>教育经历</h2></div>
+  <div class="itms1">
+  <table>
+  <tr><td><b>本科</b></td></tr>
+  <tr><td>百度前端技术学院小薇学院</td></tr>
+  <tr><td><b>研究生</b></td></tr>
+  <tr><td>百度前端技术学院大斌学院</td></tr>
+  </table>
+  </div>
+</div>
+
+
+<div class="container1">
+ <div class="itms"><h2>项目经历</h2></div>
+  <div class="itms1">
+  <table>
+  <tr><td><b>小度小度</b></td></tr>
+  <tr><td>作为前端工程师角色参与了ABC组件的开发</td></tr>
+  <tr><td><b>SAN Doc</b></td></tr>
+  <tr><td>作为文档工程师参与了SAN Doc编写</td></tr>
+  </table>
+  </div>
+</div>
+
+
+</body>
+</html>
